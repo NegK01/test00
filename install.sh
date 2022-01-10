@@ -24,12 +24,12 @@ npm i moment-timezone -y
 npm i node-fetch@2.6.1 - npm -y
 npm i requests -y
 npm install request --save -y
+npm i image-to-base64 -y
 npm i fluent-ffmpeg -y
 npm i @adiwajshing/baileys -y
 npm i performance-now -y
 npm i form-data -y
 npm i hxz-api -y
-
 npm i qrcode -y
 
 
