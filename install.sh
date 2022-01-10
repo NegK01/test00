@@ -30,7 +30,9 @@ npm i @adiwajshing/baileys -y
 npm i performance-now -y
 npm i form-data -y
 npm i hxz-api -y
+npm i cheerio -y
 npm i qrcode -y
+
 
 
 echo -e '\e[1;32m
