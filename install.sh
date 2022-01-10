@@ -21,6 +21,7 @@ npm install -g npm@6 -y
 npm install toml -y
 npm i crypto-js -y
 npm i moment-timezone -y
+npm i axios -y
 npm i node-fetch@2.6.1 - npm -y
 npm i requests -y
 npm install request --save -y
